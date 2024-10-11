@@ -2,7 +2,7 @@ from anthropic import Anthropic
 
 from config import IDENTITY, MODEL, TASK_SPECIFIC_INSTRUCTIONS
 
-anthropic_api_key = "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"
+anthropic_api_key = ""
 
 
 class ChatBot:

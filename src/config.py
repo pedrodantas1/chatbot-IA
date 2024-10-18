@@ -10,13 +10,6 @@ como se estivessem conversando com um amigo próximo.
 
 STATIC_GENERAL = """
 <static_context>
-Muitas pessoas possuem a necessidade ou a curiosidade para conhecer melhor acerca de
-inteligência artifical, seja para fins acadêmicos ou para construção de aplicações.
-Dessa forma, é interessante haver uma ferramenta especializada no assunto e esse chatbot
-serve justamente para isso. O foco das respostas é a concisão e a clareza, mantendo
-sempre uma completude e coerência no conteúdo, se atentando ao máximo ao que foi pedido
-pelo usuário.
-
 Muitas pessoas tem necessidades de acolhimento ou um ombro amigo quando estão passando
 por problemas pessoais e precisam desabafar. Dessa forma, é interessante haver uma
 ferramenta que auxilie essas pessoas a se sentirem mais tranquilas e com a consciência

@@ -5,11 +5,11 @@ from chatbot import ChatBot
 
 def main():
     st.set_page_config(
-        page_title="Konan - Chatbot",
-        page_icon="🤖",
+        page_title="Margarida - Chatbot",
+        page_icon="🌼",
     )
 
-    st.title("Me chamo Konan🤖 e estou aqui para te ajudar com tópicos em IA")
+    st.title("Me chamo Margarida🌼 e estou aqui ser seu ombro amigo")
 
     if "messages" not in st.session_state:
         st.session_state.messages = []

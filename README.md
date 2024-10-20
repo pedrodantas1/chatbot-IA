@@ -1,5 +1,10 @@
 # Chatbot
 
+## Observação
+
+- É necessário copiar a api key do Claude para que a aplicação funcione corretamente.
+- A key deve ser colocada no campo `anthropic_api_key`, localizado no arquivo `chatbot.py`.
+
 ## Configuração
 
 1. Clone o repositório:
